@@ -1,1 +1,1 @@
-doc1Local
+doc1GitHub
